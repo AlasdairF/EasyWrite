@@ -1,8 +1,6 @@
 package easy
 
 import (
-	"fmt"
-	"bytes"
 	"io"
 	"reflect"
 	"github.com/AlasdairF/Conv"
